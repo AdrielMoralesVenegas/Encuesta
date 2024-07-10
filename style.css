@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
+  background-image: url("https://github.com/AdrielMoralesVenegas/Celeste/blob/19f152690cc0a967e598ec09db1e2fb41484fa0e/f5bdaf1c-819d-4aac-9297-f4174d2ea960.JPG");
   background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
@@ -19,16 +19,16 @@ body {
 
 @keyframes tusharcoding {
   0% {
-    background-image: url("https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
+    background-image: url("https://github.com/AdrielMoralesVenegas/Celeste/blob/19f152690cc0a967e598ec09db1e2fb41484fa0e/f5bdaf1c-819d-4aac-9297-f4174d2ea960.JPG");
   }
   25% {
-    background-image: url("https://i.postimg.cc/vBHgsPwZ/sunset-698501-1280.jpg");
+    background-image: url("https://github.com/AdrielMoralesVenegas/Celeste/blob/19f152690cc0a967e598ec09db1e2fb41484fa0e/ed7e039c-00d4-4f7f-9f15-e199bcadc57b.JPG");
   }
   50% {
-    background-image: url(" https://i.postimg.cc/9Fq4CRKZ/candles-1645551-1280.jpg");
+    background-image: url(" https://github.com/AdrielMoralesVenegas/Celeste/blob/19f152690cc0a967e598ec09db1e2fb41484fa0e/1ab9fd22-59e0-44a7-b25d-8b09376eaea0.JPG");
   }
   80% {
-    background-image: url("https://i.postimg.cc/w3Kj72ZJ/rose-3407234-1280.jpg");
+    background-image: url("https://github.com/AdrielMoralesVenegas/Celeste/blob/19f152690cc0a967e598ec09db1e2fb41484fa0e/0e647a4c-3583-40ea-9d7a-a30fc90a98bf.JPG");
   }
 }
 
@@ -40,5 +40,5 @@ body {
   width: 100%;
   text-align: center;
   color: white;
-  font-family: cursive;
+  font-family: Arial, Helvetica, sans-serif;
 }
