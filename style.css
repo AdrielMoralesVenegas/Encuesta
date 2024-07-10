@@ -22,13 +22,13 @@ body {
     background-image: url("https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
   }
   25% {
-    background-image: url("../img/house.jpg");
+    background-image: url("https://i.postimg.cc/vBHgsPwZ/sunset-698501-1280.jpg");
   }
   50% {
-    background-image: url("../img/park1.jpg");
+    background-image: url(" https://i.postimg.cc/9Fq4CRKZ/candles-1645551-1280.jpg");
   }
   80% {
-    background-image: url("../img/trees1.jpg");
+    background-image: url("https://i.postimg.cc/w3Kj72ZJ/rose-3407234-1280.jpg");
   }
 }
 
@@ -40,5 +40,5 @@ body {
   width: 100%;
   text-align: center;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: cursive;
 }
