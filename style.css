@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("/img/beach1.jpg");
+  background-image: url("https://iglesiabiblicasion.com/wp-content/uploads/2023/01/Calendario-de-Actividades-scaled.jpg");
   background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
@@ -19,16 +19,16 @@ body {
 
 @keyframes tusharcoding {
   0% {
-    background-image: url("/img/beach1.jpg");
+    background-image: url("https://iglesiabiblicasion.com/wp-content/uploads/2023/01/Calendario-de-Actividades-scaled.jpg");
   }
   25% {
-    background-image: url("/img/trees1.jpg");
+    background-image: url("https://iglesiabiblicasion.com/wp-content/uploads/2023/01/Calendario-de-Actividades-scaled.jpg");
   }
   50% {
-    background-image: url("/img/house.jpg");
+    background-image: url("https://iglesiabiblicasion.com/wp-content/uploads/2023/01/Calendario-de-Actividades-scaled.jpg");
   }
   80% {
-    background-image: url("/img/park1.jpg");
+    background-image: url("https://iglesiabiblicasion.com/wp-content/uploads/2023/01/Calendario-de-Actividades-scaled.jpg");
   }
 }
 
