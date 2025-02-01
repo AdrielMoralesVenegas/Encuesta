@@ -1,2 +1,0 @@
-# crush
-Crush Proposal Website
